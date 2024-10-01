@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=NormalEmployeeProject/src\/main\/java&amp;lt;com.demo.emp{NormalEmployeeProjectApplication.java[NormalEmployeeProjectApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=EmployeeDetails/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.demo.emp{EmpSalaryDetails1Application.java[EmpSalaryDetails1Application&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=KafkaConsumerProject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.demo.consumer{KafkaProducerProject1Application.java[KafkaProducerProject1Application&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Aesehi/src\/main\/java&amp;lt;com.demo{AesehiApplication.java[AesehiApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=KafkaProducerWithPRecord/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.demo{KafkaProducerWithPRecordApplication.java[KafkaProducerWithPRecordApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=KafkaConsumerWithCRecord/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.demo{KafkaConsumerWithCRecordApplication.java[KafkaConsumerWithCRecordApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=KafkaProducerProject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&amp;lt;com.demo.producer{KafkaProducerProjectApplication.java[KafkaProducerProjectApplication&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="459"/>
+			<item key="DIALOG_Y_ORIGIN" value="191"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="expressionHistory">
+	</section>
+</section>

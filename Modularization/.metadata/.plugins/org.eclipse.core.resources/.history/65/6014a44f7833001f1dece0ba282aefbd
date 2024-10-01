@@ -1,0 +1,25 @@
+package com.web.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
+@Entity
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@ToString
+@Table(name="addTable")
+public class Address {
+	@Id
+	private int eid;
+	private int house_no;
+	private int zip_code;
+	private String dist;
+	private String state;
+	private String country;
+}

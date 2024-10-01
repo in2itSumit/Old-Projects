@@ -1,0 +1,11 @@
+spring.application.name=NotesModule
+spring.datasource.url=jdbc:postgresql://99.99.99.187:5432/postgres
+spring.datasource.username=sumit_mishra
+spring.datasource.password=sumit@123
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+
+#swagger
+springdoc.api-docs.path=/IN2IT-BLOG

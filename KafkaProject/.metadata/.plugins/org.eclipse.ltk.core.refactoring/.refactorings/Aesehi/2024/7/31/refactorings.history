@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Aesehi.java&apos; to &apos;newAsehi/src&apos;&#x0D;&#x0A;- Original project: &apos;Aesehi&apos;&#x0D;&#x0A;- Destination element: &apos;newAsehi/src&apos;&#x0D;&#x0A;- Original element: &apos;com.demo.Aesehi.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=newAsehi/src" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo{Aesehi.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1722245805902" units="1" version="1.0"/>
+</session>

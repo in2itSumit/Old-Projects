@@ -1,0 +1,5 @@
+package com.example.demo.exceptionHand;
+
+public class OwnHandler extends Throwable {
+	
+}
